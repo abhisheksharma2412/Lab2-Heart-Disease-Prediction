@@ -1,1 +1,5 @@
-# Lab2-Heart-Disease-Prediction
+**HEART DISEASE PREDICTION**
+
+**Abstract**
+
+Early diagnosis of cardiovascular disease is critical for effective medical management/intervention and successful patient outcomes. We compare three classification algorithms, Logistic Regression, k-Nearest Neighbors (k-NN), and Decision Tree, using the Heart Failure Prediction data set from Kaggle. This data set consisted of numerical and categorical attributes about indicators of patient health. After the complete pre-processing of the data which included outlier management, encoding, and feature scaling the models were evaluated by training them, and viewing the results on various metrics (accuracy, precision, recall, and F1-score). Overall, the k-NN model outperformed the other models with the highest accuracy rate (84.2 %) followed closely by Logistic Regression (83.7 %). Decision tree model had the least performance (79.3 %), but it was viewable and understandable. This paper also highlighted the balancing act of model performance, interpretability, and the complexities involved with health related classification problems. The research results provided useful information about decision making on appropriate algorithms to use for similar predictive health scenarios.
